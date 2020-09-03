@@ -567,3 +567,321 @@ http://p2prime.xyz:80/tvbox04/ucm352/14317
 http://p2prime.xyz:80/tvbox04/ucm352/14318
 #EXTINF:-1,PLAY TV SD²
 http://p2prime.xyz:80/tvbox04/ucm352/9251
+#EXTINF:-1,SONY FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14217
+#EXTINF:-1,SONY FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9000
+#EXTINF:-1,SONY HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14218
+#EXTINF:-1,SONY HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9037
+#EXTINF:-1,SONY SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9038
+#EXTINF:-1,SPACE FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14219
+#EXTINF:-1,SPACE FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8999
+#EXTINF:-1,SPACE HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14220
+#EXTINF:-1,SPACE HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9035
+#EXTINF:-1,SPACE SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9036
+#EXTINF:-1,STUDIO UNIVERSAL FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14221
+#EXTINF:-1,STUDIO UNIVERSAL FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8998
+#EXTINF:-1,STUDIO UNIVERSAL HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14222
+#EXTINF:-1,STUDIO UNIVERSAL HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9033
+#EXTINF:-1,STUDIO UNIVERSAL SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9034
+#EXTINF:-1,SYFY FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14223
+#EXTINF:-1,SYFY FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8997
+#EXTINF:-1,SYFY HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14224
+#EXTINF:-1,SYFY HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9031
+#EXTINF:-1,SYFY SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9032
+#EXTINF:-1,TBS FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14225
+#EXTINF:-1,TBS FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8889
+#EXTINF:-1,TBS HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14226
+#EXTINF:-1,TBS HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9090
+#EXTINF:-1,TBS SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9030
+#EXTINF:-1,TCM FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14227
+#EXTINF:-1,TCM HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14228
+#EXTINF:-1,TCM SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9029
+#EXTINF:-1,TELECINE ACTION FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14117
+#EXTINF:-1,TELECINE ACTION FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9241
+#EXTINF:-1,TELECINE ACTION HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14123
+#EXTINF:-1,TELECINE ACTION HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9240
+#EXTINF:-1,TELECINE ACTION SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/26418
+#EXTINF:-1,TELECINE ACTION SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9242
+#EXTINF:-1,TELECINE CULT FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14118
+#EXTINF:-1,TELECINE CULT FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9238
+#EXTINF:-1,TELECINE CULT HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14124
+#EXTINF:-1,TELECINE CULT HD²
+http://p2prime.xyz:80/tvbox04/ucm352/8376
+#EXTINF:-1,TELECINE CULT SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/26419
+#EXTINF:-1,TELECINE CULT SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9239
+#EXTINF:-1,TELECINE FUN FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14119
+#EXTINF:-1,TELECINE FUN FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9235
+#EXTINF:-1,TELECINE FUN HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14125
+#EXTINF:-1,TELECINE FUN HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9234
+#EXTINF:-1,TELECINE FUN SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/26420
+#EXTINF:-1,TELECINE FUN SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9236
+#EXTINF:-1,TELECINE PIPOCA FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14120
+#EXTINF:-1,TELECINE PIPOCA FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9232
+#EXTINF:-1,TELECINE PIPOCA HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14126
+#EXTINF:-1,TELECINE PIPOCA HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9231
+#EXTINF:-1,TELECINE PIPOCA SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/26421
+#EXTINF:-1,TELECINE PIPOCA SD²
+http://p2prime.xyz:80/tvbox04/ucm352/8373
+#EXTINF:-1,TELECINE PREMIUM FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14121
+#EXTINF:-1,TELECINE PREMIUM FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9229
+#EXTINF:-1,TELECINE PREMIUM HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14127
+#EXTINF:-1,TELECINE PREMIUM HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9228
+#EXTINF:-1,TELECINE PREMIUM SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/26422
+#EXTINF:-1,TELECINE PREMIUM SD²
+http://p2prime.xyz:80/tvbox04/ucm352/8371
+#EXTINF:-1,TELECINE TOUCH FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14122
+#EXTINF:-1,TELECINE TOUCH FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9226
+#EXTINF:-1,TELECINE TOUCH HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14128
+#EXTINF:-1,TELECINE TOUCH HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9225
+#EXTINF:-1,TELECINE TOUCH SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/26423
+#EXTINF:-1,TELECINE TOUCH SD²
+http://p2prime.xyz:80/tvbox04/ucm352/8369
+#EXTINF:-1,TLC FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14319
+#EXTINF:-1,TLC FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/11106
+#EXTINF:-1,TLC HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14320
+#EXTINF:-1,TLC HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9249
+#EXTINF:-1,TLC SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9250
+#EXTINF:-1,TNT FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14229
+#EXTINF:-1,TNT FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8996
+#EXTINF:-1,TNT HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14230
+#EXTINF:-1,TNT HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9027
+#EXTINF:-1,TNT SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9028
+#EXTINF:-1,TNT SERIES FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14231
+#EXTINF:-1,TNT SERIES FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8994
+#EXTINF:-1,TNT SERIES HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14232
+#EXTINF:-1,TNT SÉRIES HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9025
+#EXTINF:-1,TNT SÉRIES SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9026
+#EXTINF:-1,NICKELODEON FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14259
+#EXTINF:-1,TOONCAST FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14261
+#EXTINF:-1,TOONCAST HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14262
+#EXTINF:-1,TOONCAST HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9095
+#EXTINF:-1,TOONCAST SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9096
+#EXTINF:-1,TRUTV FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/8469
+#EXTINF:-1,TRUTV HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14321
+#EXTINF:-1,TV APARECIDA SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/9213
+#EXTINF:-1,TV BOA VONTADE FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9212
+#EXTINF:-1,TV CULTURA FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8874
+#EXTINF:-1,TV CULTURA HD²
+http://p2prime.xyz:80/tvbox04/ucm352/8873
+#EXTINF:-1,TV CULTURA SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35337
+#EXTINF:-1,TV CULTURA SD²
+http://p2prime.xyz:80/tvbox04/ucm352/8512
+#EXTINF:-1,UNIVERSAL CHANNEL FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14233
+#EXTINF:-1,UNIVERSAL CHANNEL HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14234
+#EXTINF:-1,UNIVERSAL CHANNEL SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/9024
+#EXTINF:-1,VH1 MEGAHITS FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14337
+#EXTINF:-1,VH1 MEGAHITS FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8888
+#EXTINF:-1,VH1 MEGAHITS HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14338
+#EXTINF:-1,VH1 MEGAHITS HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9129
+#EXTINF:-1,VH1 MEGAHITS SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9130
+#EXTINF:-1,VIVA FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14322
+#EXTINF:-1,VIVA FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9248
+#EXTINF:-1,VIVA HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14323
+#EXTINF:-1,VIVA HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9245
+#EXTINF:-1,VIVA SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9247
+#EXTINF:-1,WARNER CHANNEL FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14235
+#EXTINF:-1,WARNER CHANNEL FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8991
+#EXTINF:-1,WARNER CHANNEL HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14236
+#EXTINF:-1,WARNER CHANNEL HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9021
+#EXTINF:-1,WARNER CHANNEL SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9022
+#EXTINF:-1,WOOHOO FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/11107
+#EXTINF:-1,WOOHOO HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9243
+#EXTINF:-1,WOOHOO SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9244
+#EXTINF:-1,ZOOMO FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/11111
+#EXTINF:-1,ZOOMOO HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9088
+#EXTINF:-1,ZOOMOO SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/9089
+#EXTINF:-1,IDEAL TV SD²
+http://p2prime.xyz:80/tvbox04/ucm352/11097
+#EXTINF:-1,FASHION TV FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/11103
+#EXTINF:-1,FASHION TV HD²
+http://p2prime.xyz:80/tvbox04/ucm352/11092
+#EXTINF:-1,SHOP TIME HD²
+http://p2prime.xyz:80/tvbox04/ucm352/11091
+#EXTINF:-1,TERRA VIVA SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14166
+#EXTINF:-1,TV DIARIO HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14170
+#EXTINF:-1,TV PAI ETERNO PB HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/23107
+#EXTINF:-1,TV DIÁRIO FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/23118
+#EXTINF:-1,TV DIÁRIO HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/23119
+#EXTINF:-1,REDE SUPER FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/23123
+#EXTINF:-1,REDE GENESIS FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/23124
+#EXTINF:-1,CNN BRASIL FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/26782
+#EXTINF:-1,CNN BRASIL HD²
+http://p2prime.xyz:80/tvbox04/ucm352/27305
+#EXTINF:-1,CNN BRASIL SD²
+http://p2prime.xyz:80/tvbox04/ucm352/27306
+#EXTINF:-1,IGREJA DO RECOMEÇO EM CRISTO SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/29643
+#EXTINF:-1,CINE SKY 1
+http://p2prime.xyz:80/tvbox04/ucm352/32835
+#EXTINF:-1,CINE SKY 2
+http://p2prime.xyz:80/tvbox04/ucm352/32836
+#EXTINF:-1,CINE SKY 3
+http://p2prime.xyz:80/tvbox04/ucm352/32837
+#EXTINF:-1,CINE SKY 4
+http://p2prime.xyz:80/tvbox04/ucm352/32838
+#EXTINF:-1,CINE SKY 5
+http://p2prime.xyz:80/tvbox04/ucm352/32839
+#EXTINF:-1,CINE SKY 6
+http://p2prime.xyz:80/tvbox04/ucm352/33990
+#EXTINF:-1,CINE SKY 7
+http://p2prime.xyz:80/tvbox04/ucm352/33991
+#EXTINF:-1,FUTURA SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35342
+#EXTINF:-1,REDE BRASIL SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35345
+#EXTINF:-1,REDE BRASIL SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35334
+#EXTINF:-1,TV CAMARA SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35336
+#EXTINF:-1,TV JUSTICA SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35338
+#EXTINF:-1,TV SENADO SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35339
+#EXTINF:-1,CANAL DO BOI SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35341
+#EXTINF:-1,UNIVESP TV SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35343
+#EXTINF:-1,TV ESCOLA SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/35344
+#EXTINF:-1,GLOBO NSC BLUMENAU HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/9175
+#EXTINF:-1,AMC HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14192
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO2)
+http://p2prime.xyz:80/tvbox04/ucm352/35887
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO 1)
+http://p2prime.xyz:80/tvbox04/ucm352/35888
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO3)
+http://p2prime.xyz:80/tvbox04/ucm352/35889
+#EXTINF:-1,CAMPEONATO CATARINENSE (JOGO4)
+http://p2prime.xyz:80/tvbox04/ucm352/35890
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO1)
+http://p2prime.xyz:80/tvbox04/ucm352/35891
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 2)
+http://p2prime.xyz:80/tvbox04/ucm352/35892
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 3)
+http://p2prime.xyz:80/tvbox04/ucm352/35893
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 4)
+http://p2prime.xyz:80/tvbox04/ucm352/35894
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 5)
+http://p2prime.xyz:80/tvbox04/ucm352/35895
+#EXTINF:-1,COPA DO NORDESTE 2020 (JOGO 6)
+http://p2prime.xyz:80/tvbox04/ucm352/35896
