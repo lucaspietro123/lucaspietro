@@ -1,0 +1,21 @@
+#EXTM3U
+
+
+#EXTINF:-1,NICK JUNIOR FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14257
+#EXTINF:-1,NICK JUNIOR FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9100
+#EXTINF:-1,NICK JUNIOR HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14258
+#EXTINF:-1,NICK JUNIOR HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9099
+#EXTINF:-1,NICK JUNIOR SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9101
+#EXTINF:-1,NICKELODEON FHD
+http://p2prime.xyz:80/tvbox04/ucm352/11119
+#EXTINF:-1,NICKELODEON HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14260
+#EXTINF:-1,NICKELODEON HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9097
+#EXTINF:-1,NICKELODEON SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9098
