@@ -29,3 +29,14 @@ http://p2prime.xyz:80/tvbox04/ucm352/14242
 http://p2prime.xyz:80/tvbox04/ucm352/9120
 #EXTINF:-1,CARTOON NETWORK SD²
 http://p2prime.xyz:80/tvbox04/ucm352/9122
+//p2prime.xyz:80/tvbox04/ucm352/9142
+#EXTINF:-1,BOOMERANG FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14239
+#EXTINF:-1,BOOMERANG FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9124
+#EXTINF:-1,BOOMERANG HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14240
+#EXTINF:-1,BOOMERANG HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9123
+#EXTINF:-1,BOOMERANG SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9125
