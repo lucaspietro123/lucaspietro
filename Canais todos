@@ -3,13 +3,13 @@
 #EXTINF:-1 tvg-logo="" group-title="Esportes",PREMIERE CLUBES FHD H265
 http://p2prime.xyz:80/tvbox04/ucm352/14139
 
-#EXTINF:-1,PREMIERE CLUBES FHD²
+#EXTINF:-1 tvg-logo="" group-title="Esportes",PREMIERE CLUBES FHD²
 http://p2prime.xyz:80/tvbox04/ucm352/9155
 
-#EXTINF:-1,PREMIERE CLUBES HD¹
+#EXTINF:-1 tvg-logo="" group-title="Esportes",PREMIERE CLUBES HD¹
 http://p2prime.xyz:80/tvbox04/ucm352/14140
 
-#EXTINF:-1,PREMIERE CLUBES HD²
+#EXTINF:-1 tvg-logo="" group-title="Esportes",PREMIERE CLUBES HD²
 http://p2prime.xyz:80/tvbox04/ucm352/9154
 
 #EXTINF:-1,PREMIERE CLUBES SD¹
