@@ -76,3 +76,60 @@ http://p2prime.xyz:80/tvbox04/ucm352/11094
 http://p2prime.xyz:80/tvbox04/ucm352/8869
 #EXTINF:-1,GAZETA SP HD¹
 http://p2prime.xyz:80/tvbox04/ucm352/35340
+
+#EXTINF:-1,A&E FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14190
+#EXTINF:-1,A&E FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9020
+#EXTINF:-1,A&E HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14191
+#EXTINF:-1,A&E HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9068
+#EXTINF:-1,A&E SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9069
+#EXTINF:-1,AMC FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9019
+#EXTINF:-1,AMC HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9066
+#EXTINF:-1,AMC SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9067
+#EXTINF:-1,ANIMAL PLANET FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14263
+#EXTINF:-1,ANIMAL PLANET FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8947
+#EXTINF:-1,ANIMAL PLANET HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14264
+#EXTINF:-1,ANIMAL PLANET HD²
+http://p2prime.xyz:80/tvbox04/ucm352/8946
+#EXTINF:-1,ANIMAL PLANET SD²
+http://p2prime.xyz:80/tvbox04/ucm352/8948
+#EXTINF:-1,ARTE 1  FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14304
+#EXTINF:-1,ARTE 1 FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9265
+#EXTINF:-1,ARTE 1 HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14305
+#EXTINF:-1,ARTE 1 HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9264
+#EXTINF:-1,ARTE 1 SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9266
+#EXTINF:-1,AXN FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14193
+#EXTINF:-1,AXN FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9018
+#EXTINF:-1,AXN HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14194
+#EXTINF:-1,AXN HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9064
+#EXTINF:-1,AXN SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9065
+#EXTINF:-1,BABY TV FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14237
+#EXTINF:-1,BABY TV FHD
+http://p2prime.xyz:80/tvbox04/ucm352/9126
+#EXTINF:-1,BABY TV HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14238
+#EXTINF:-1,BABY TV HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/8509
+#EXTINF:-1,BABY TV SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9127
