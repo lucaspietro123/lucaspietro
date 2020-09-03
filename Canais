@@ -537,3 +537,33 @@ http://p2prime.xyz:80/tvbox04/ucm352/8904
 http://p2prime.xyz:80/tvbox04/ucm352/8890
 #EXTINF:-1,NHK SD²
 http://p2prime.xyz:80/tvbox04/ucm352/8493
+#EXTINF:-1,NOVO TEMPO HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9218
+#EXTINF:-1,OFF FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14115
+#EXTINF:-1,OFF FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/8953
+#EXTINF:-1,OFF HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14116
+#EXTINF:-1,OFF HD²
+http://p2prime.xyz:80/tvbox04/ucm352/8323
+#EXTINF:-1,OFF SD¹
+http://p2prime.xyz:80/tvbox04/ucm352/26416
+#EXTINF:-1,OFF SD²
+http://p2prime.xyz:80/tvbox04/ucm352/8954
+#EXTINF:-1,PARAMOUNT FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14213
+#EXTINF:-1,PARAMOUNT FHD²
+http://p2prime.xyz:80/tvbox04/ucm352/9002
+#EXTINF:-1,PARAMOUNT HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14214
+#EXTINF:-1,PARAMOUNT HD²
+http://p2prime.xyz:80/tvbox04/ucm352/9039
+#EXTINF:-1,PARAMOUNT SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9040
+#EXTINF:-1,PLAY TV FHD H265
+http://p2prime.xyz:80/tvbox04/ucm352/14317
+#EXTINF:-1,PLAY TV HD¹
+http://p2prime.xyz:80/tvbox04/ucm352/14318
+#EXTINF:-1,PLAY TV SD²
+http://p2prime.xyz:80/tvbox04/ucm352/9251
