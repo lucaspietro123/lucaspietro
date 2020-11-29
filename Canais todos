@@ -1,16 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1,Esport
-https://raw.githubusercontent.com/lucaspietro123/lucaspietro/master/Esportes
-
-#EXTINF:-1,CANAIS
-https://raw.githubusercontent.com/lucaspietro123/lucaspietro/master/Canais
-
-#EXTINF:-1,Desenhos
-https://raw.githubusercontent.com/lucaspietro123/lucaspietro/master/Desenhos
-
-#EXTINF:-1,Series
-https://raw.githubusercontent.com/lucaspietro123/lucaspietro/master/Series
-
-#EXTINF:-1;,Filmes
-https://raw.githubusercontent.com/lucaspietro123/lucaspietro/master/Filmes
+#EXTINF:0,CANAIS PEGANDO 100%
+https://raw.githubusercontent.com/Ramys/Alexandre-Iptv/master/Brasil
