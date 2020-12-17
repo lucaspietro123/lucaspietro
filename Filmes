@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:0,Os novos mutantes
-https://s1.pandafiles.com:183/d/7m3zrpod26kwoyap4wf3kymdpfuzu47kail7w45775pco72xbz4q6k767gvvmrngdgbj64zk/video.mp4
+#EXTINF:0 ,NARUTO 18 TEMPORADA (432-458)
+http://177.126.119.166:8040/Naruto%20Shippuden/18%C2%AA%20Temporada/?tpl=list&folders-filter=\&recursive
 
-#EXTINF:0,MISTERIO DO CONVENTO
-https://s7.pandafiles.com:183/d/6e3zhl6d26kwoyap5kf34ogan7xozlttbscjwisdvvncgo7tg3bqkzsf6xvcv2cf7tc4jz2h/video.mp4
+#EXTINF:0, NARUTO 19 TEMPORADA (459-479)
+http://177.126.119.166:8040/Naruto%20Shippuden/19%C2%AA%20TEMPORADA/?tpl=list&folders-filter=\&recursive
+
+#EXTINF:0, NARUTO 20 TEMPORADA (480-500)
+http://177.126.119.166:8040/Naruto%20Shippuden/20%C2%AA%20Temporada/?tpl=list&folders-filter=\&recursive
+
