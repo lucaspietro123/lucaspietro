@@ -1,49 +1,33 @@
 #EXTM3U
 
-#EXTINF:0, PREMIERE 1
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140260.m3u8
-
-
- 
-#EXTINF:0, PREMIERE 2
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140265.m3u8
-
-
-#EXTINF:0, PREMIERE 3
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140271.m3u8
-
-
-
-#EXTINF:0, PREMIERE 4
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140275.m3u8
-
-
-#EXTINF:0, PREMIERE 5
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140281.m3u8
-
-
-#EXTINF:0, PREMIERE 
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140285.m3u8
-
-
-
-#EXTINF:0, PREMIERE 7
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140289.m3u8
-
-
-#EXTINF:0, PREMIERE 8
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140293.m3u8
-
-
-
-#EXTINF:0, PREMIERE CLUBES
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140297.m3u8
-
-
-
-#EXTINF:0, DAZN
-http://dns.fastuhd.online/live/dirceu56/56dirceu/140107.m3u8
-
-
-
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 2 HD [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50953.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 2 [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50954.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 3 HD [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50966.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 3 [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50973.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 4 HD [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50976.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 4 [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50977.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 5 HD [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50983.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 5 [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50984.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 6 [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50986.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 7 HD [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50987.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 7 [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50988.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 8 [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50989.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png",PREMIERE CLUBES HD [Alternativo]
+http://tv.minhalista.me/live/Karolayne/karolayne/63093.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE CLUBES [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/51001.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png",PREMIERE CLUBES [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/63092.mpegts
 
