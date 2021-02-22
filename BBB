@@ -1,0 +1,93 @@
+#EX
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 1 FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB 1 FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89722.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 1 FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB 1 FHD [H265]
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89721.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 1 HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB 1 HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89720.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 1 SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB 1 SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89719.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 2 FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB 2 FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89714.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 2 FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB 2 FHD [H265]
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89713.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 2 HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB 2 HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89712.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB 2 SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB 2 SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89711.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Acompanhe a Casa 2 FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Acompanhe a Casa 2 FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93489.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Acompanhe a Casa 2 HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Acompanhe a Casa 2 HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93490.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Acompanhe a Casa 2 SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Acompanhe a Casa 2 SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93491.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Acompanhe a Casa Extra FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Acompanhe a Casa Extra FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93492.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Acompanhe a Casa Extra HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Acompanhe a Casa Extra HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93493.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Acompanhe a Casa Extra SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Acompanhe a Casa Extra SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93494.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Acompanhe a Casa FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Acompanhe a Casa FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93495.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Acompanhe a Casa HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Acompanhe a Casa HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93496.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Acompanhe a Casa SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Acompanhe a Casa SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93497.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Confessionario FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Confessionario FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93498.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Confessionario HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Confessionario HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93499.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Confessionario SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Confessionario SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93500.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cozinha Vip Xepa FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Cozinha Vip Xepa FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93501.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cozinha Vip Xepa HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Cozinha Vip Xepa HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93502.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Cozinha Vip Xepa SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Cozinha Vip Xepa SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93503.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Jardim FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Jardim FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93504.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Jardim HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Jardim HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93505.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Jardim SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Jardim SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93506.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Mosaico FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89718.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico FHD [H265]" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Mosaico FHD [H265]
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89717.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Mosaico HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89716.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Mosaico SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Mosaico SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/89715.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Piscina FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Piscina FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93507.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Piscina HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Piscina HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93508.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Piscina SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Piscina SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93509.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Quarto Colorido FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Quarto Colorido FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93510.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Quarto Colorido HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Quarto Colorido HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93511.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Quarto Colorido SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Quarto Colorido SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93512.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Quarto Cordel FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Quarto Cordel FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93513.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Quarto Cordel HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Quarto Cordel HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93514.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Quarto Cordel SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Quarto Cordel SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93515.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Sala da Casa Extra FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Sala da Casa Extra FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93516.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Sala da Casa Extra HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Sala da Casa Extra HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93517.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Sala da Casa Extra SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Sala da Casa Extra SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93518.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Sala de Estar FHD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Sala de Estar FHD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93519.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Sala de Estar HD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Sala de Estar HD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93520.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BBB Sala de Estar SD" tvg-logo="http://static.clubsrv.me/logos/canais/bbb.png" group-title="Canais | BBB" tvg-shift="-3",BBB Sala de Estar SD
+http://dnsx.co:80/live/vania.janaina3/a1aw5s/93521.ts
