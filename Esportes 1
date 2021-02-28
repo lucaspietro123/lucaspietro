@@ -50,3 +50,33 @@ http://tv.minhalista.me/live/Karolayne/karolayne/51056.mpegts
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV [ALT]
 http://tv.minhalista.me/live/Karolayne/karolayne/63094.mpegts
 
+-----------------DAZN-----------------
+
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg",DAZN 01 HD (A)
+http://tv.minhalista.me/live/Karolayne/karolayne/63112.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 01 HD (B)
+http://tv.minhalista.me/live/Karolayne/karolayne/72972.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg",DAZN 02 HD (A)
+http://tv.minhalista.me/live/Karolayne/karolayne/63113.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 02 HD (B)
+http://tv.minhalista.me/live/Karolayne/karolayne/72973.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/nPTcquW.jpg",DAZN 03 HD (A)
+http://tv.minhalista.me/live/Karolayne/karolayne/63115.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 03 HD (B)
+http://tv.minhalista.me/live/Karolayne/karolayne/72974.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 04 HD (A)
+http://tv.minhalista.me/live/Karolayne/karolayne/63116.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 04 HD (B)
+http://tv.minhalista.me/live/Karolayne/karolayne/72975.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 05 HD (B)
+http://tv.minhalista.me/live/Karolayne/karolayne/72976.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 06 HD (B)
+http://tv.minhalista.me/live/Karolayne/karolayne/72977.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/0l37eVA.jpg",DAZN 1 HD
+http://tv.minhalista.me/live/Karolayne/karolayne/58130.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/0l37eVA.jpg",DAZN 2 HD
+http://tv.minhalista.me/live/Karolayne/karolayne/58433.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/iuBxVVZ.png",DAZN 7
+http://tv.minhalista.me/live/Karolayne/karolayne/63216.mpegts
+
+
