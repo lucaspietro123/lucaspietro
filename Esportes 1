@@ -31,3 +31,22 @@ http://tv.minhalista.me/live/Karolayne/karolayne/51001.mpegts
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/primebox.png",PREMIERE CLUBES [ALT]
 http://tv.minhalista.me/live/Karolayne/karolayne/63092.mpegts
 
+-----------------SPORTV----------
+
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/dnjAv2m.png",SPORTV 2 HD [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/51051.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/dnjAv2m.png",SPORTV 2 [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/51052.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/SAxzLi9.png",SPORTV 3 HD [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/51053.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/SAxzLi9.png",SPORTV 3 [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/51054.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/3ynzR93.png",SPORTV HD [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/51055.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV HD [Alternativo]
+http://tv.minhalista.me/live/Karolayne/karolayne/63095.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/3ynzR93.png",SPORTV [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/51056.mpegts
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png",SPORTV [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/63094.mpegts
+
