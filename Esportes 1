@@ -120,4 +120,23 @@ http://tv.minhalista.me/live/Karolayne/karolayne/58433.mpegts
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/iuBxVVZ.png",DAZN 7
 http://tv.minhalista.me/live/Karolayne/karolayne/63216.mpegts
 
+--------------EI -----------
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png",EI MAX 01
+http://tv.minhalista.me/live/Karolayne/karolayne/63682.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png",EI MAX 02
+http://tv.minhalista.me/live/Karolayne/karolayne/63683.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 01 (P)
+http://tv.minhalista.me/live/Karolayne/karolayne/63266.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 02 (G)
+http://tv.minhalista.me/live/Karolayne/karolayne/63267.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 04 (G)
+http://tv.minhalista.me/live/Karolayne/karolayne/63269.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 05 (G)
+http://tv.minhalista.me/live/Karolayne/karolayne/63270.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS 06 (G)
+http://tv.minhalista.me/live/Karolayne/karolayne/63271.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/ledljQn.jpg",EI PLUS HD (G)
+http://tv.minhalista.me/live/Karolayne/karolayne/54705.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS HD (S)
+http://tv.minhalista.me/live/Karolayne/karolayne/63268.mpegts
 
