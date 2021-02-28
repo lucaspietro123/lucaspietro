@@ -1,5 +1,46 @@
 #EXTM3U
 
+---------PREMIERE-----------------
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 2
+http://tv.minhalista.me/live/Karolayne/karolayne/37060.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 2 HD
+http://tv.minhalista.me/live/Karolayne/karolayne/36952.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 3
+http://tv.minhalista.me/live/Karolayne/karolayne/37059.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 3 HD
+http://tv.minhalista.me/live/Karolayne/karolayne/36951.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 4
+http://tv.minhalista.me/live/Karolayne/karolayne/37058.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 4 HD
+http://tv.minhalista.me/live/Karolayne/karolayne/36950.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 5
+http://tv.minhalista.me/live/Karolayne/karolayne/37057.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 5 HD
+http://tv.minhalista.me/live/Karolayne/karolayne/36949.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 6
+http://tv.minhalista.me/live/Karolayne/karolayne/37056.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 6 HD
+http://tv.minhalista.me/live/Karolayne/karolayne/36906.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 7
+http://tv.minhalista.me/live/Karolayne/karolayne/37017.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 7 HD
+http://tv.minhalista.me/live/Karolayne/karolayne/36905.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 8
+http://tv.minhalista.me/live/Karolayne/karolayne/54120.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere 8 HD
+http://tv.minhalista.me/live/Karolayne/karolayne/64657.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere Clubes
+http://tv.minhalista.me/live/Karolayne/karolayne/37016.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere Clubes HD
+http://tv.minhalista.me/live/Karolayne/karolayne/36948.mpegts
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://i.imgur.com/8d0cM31.png",Premiere Internacional
+http://tv.minhalista.me/live/Karolayne/karolayne/65280.mpegts
+
+
+
+
+----------PREMIERE ALT---------------
+
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 2 HD [ALT]
 http://tv.minhalista.me/live/Karolayne/karolayne/50953.mpegts
 #EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="http://i.imgur.com/8d0cM31.png",PREMIERE 2 [ALT]
