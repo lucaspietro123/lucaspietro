@@ -140,3 +140,9 @@ http://tv.minhalista.me/live/Karolayne/karolayne/54705.mpegts
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/MynHKEZ.jpg",EI PLUS HD (S)
 http://tv.minhalista.me/live/Karolayne/karolayne/63268.mpegts
 
+---------band sports---------
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/7ItcMOv.jpg",BAND SPORTS HD [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50656.mpegts
+
+#EXTINF:-1 group-title="Canais | Alternativos" tvg-logo="https://i.imgur.com/7ItcMOv.jpg",BAND SPORTS [ALT]
+http://tv.minhalista.me/live/Karolayne/karolayne/50657.mpegts
