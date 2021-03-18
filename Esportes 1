@@ -83,33 +83,23 @@ http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=c9090394febd1364
 
 
 -----------------DAZN-----------------
+#EXTINF:-1 type="stream" tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/7tZ3r3F/dazn.png" group-title="Esporte",DAZN 1 HD
+http://lb.kstream.org/aovivo/HD_DAZN_1/video.m3u8?token=c9090394febd13642ec774d7de617877
+#EXTINF:-1 type="stream" tvg-id="DAZN 1 HD [Alter]" tvg-logo="https://i.ibb.co/7tZ3r3F/dazn.png" group-title="Esporte",DAZN 1 HD [Alter]
+http://lb.kstream.org/aovivo/HD_DAZN_1_ALTER/video.m3u8?token=c9090394febd13642ec774d7de617877
+#EXTINF:-1 type="stream" tvg-id="DAZN 2 HD" tvg-logo="https://i.ibb.co/7tZ3r3F/dazn.png" group-title="Esporte",DAZN 2 HD
+http://lb.kstream.org/aovivo/HD_DAZN_2/video.m3u8?token=c9090394febd13642ec774d7de617877
+#EXTINF:-1 type="stream" tvg-id="DAZN 2 HD [Alter]" tvg-logo="https://i.ibb.co/7tZ3r3F/dazn.png" group-title="Esporte",DAZN 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_DAZN_2_ALTER/video.m3u8?token=c9090394febd13642ec774d7de617877
+#EXTINF:-1 type="stream" tvg-id="DAZN 3 HD" tvg-logo="https://i.ibb.co/7tZ3r3F/dazn.png" group-title="Esporte",DAZN 3 HD
+http://lb.kstream.org/aovivo/HD_DAZN_3/video.m3u8?token=c9090394febd13642ec774d7de617877
+#EXTINF:-1 type="stream" tvg-id="DAZN 3 HD [Alter]" tvg-logo="https://i.ibb.co/7tZ3r3F/dazn.png" group-title="Esporte",DAZN 3 HD [Alter]
+http://lb.kstream.org/aovivo/HD_DAZN_3_ALTER/video.m3u8?token=c9090394febd13642ec774d7de617877
+#EXTINF:-1 type="stream" tvg-id="DAZN 4 HD" tvg-logo="https://i.ibb.co/7tZ3r3F/dazn.png" group-title="Esporte",DAZN 4 HD
+http://lb.kstream.org/aovivo/HD_DAZN_4/video.m3u8?token=c9090394febd13642ec774d7de617877
+#EXTINF:-1 type="stream" tvg-id="DAZN 4 HD [Alter]" tvg-logo="https://i.ibb.co/7tZ3r3F/dazn.png" group-title="Esporte",DAZN 4 HD [Alter]
+http://lb.kstream.org/aovivo/HD_DAZN_4_ALTER/video.m3u8?token=c9090394febd13642ec774d7de617877
 
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg",DAZN 01 HD (A)
-http://tv.minhalista.me/live/Karolayne/karolayne/63112.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 01 HD (B)
-http://tv.minhalista.me/live/Karolayne/karolayne/72972.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/Rmrk8Ww.jpg",DAZN 02 HD (A)
-http://tv.minhalista.me/live/Karolayne/karolayne/63113.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 02 HD (B)
-http://tv.minhalista.me/live/Karolayne/karolayne/72973.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/nPTcquW.jpg",DAZN 03 HD (A)
-http://tv.minhalista.me/live/Karolayne/karolayne/63115.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 03 HD (B)
-http://tv.minhalista.me/live/Karolayne/karolayne/72974.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 04 HD (A)
-http://tv.minhalista.me/live/Karolayne/karolayne/63116.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 04 HD (B)
-http://tv.minhalista.me/live/Karolayne/karolayne/72975.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 05 HD (B)
-http://tv.minhalista.me/live/Karolayne/karolayne/72976.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/hWeZFjv.jpg",DAZN 06 HD (B)
-http://tv.minhalista.me/live/Karolayne/karolayne/72977.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/0l37eVA.jpg",DAZN 1 HD
-http://tv.minhalista.me/live/Karolayne/karolayne/58130.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/0l37eVA.jpg",DAZN 2 HD
-http://tv.minhalista.me/live/Karolayne/karolayne/58433.mpegts
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/iuBxVVZ.png",DAZN 7
-http://tv.minhalista.me/live/Karolayne/karolayne/63216.mpegts
 
 --------------EI -----------
 #EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://2.bp.blogspot.com/-eTHPGWTUg9o/VZqm99-Xj6I/AAAAAAAAaqQ/P8yHYrRNAzE/s1600/logo_ei_max.png",EI MAX 01
