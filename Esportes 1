@@ -1,6 +1,8 @@
 #EXTM3U
 
 ---------PREMIERE-----------------
+#EXTINF:-1 type="stream" tvg-id="Premiere 2" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Premiere",Premiere 2
+http://lb.kstream.org/aovivo/SD_PFC_2/video.m3u8?token=74aaee40f736b9d5a42670631c81b1cb
 #EXTINF:-1 type="stream" tvg-id="Premiere 2 FHD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Premiere",Premiere 2 FHD
 http://lb.kstream.org/aovivo/FHD_PFC_2/video.m3u8?token=74aaee40f736b9d5a42670631c81b1cb
 #EXTINF:-1 type="stream" tvg-id="Premiere 2 HD" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Premiere",Premiere 2 HD
