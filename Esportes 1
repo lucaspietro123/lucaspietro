@@ -52,3 +52,29 @@ http://lb.kstream.org/aovivo/FHD_PFC_CLUBES/video.m3u8?token=9c759b5e303e669eb4f
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
 #EXTINF:-1 type="stream" tvg-id="Premiere Clubes HD [Alter]" tvg-logo="https://i.ibb.co/nb8dcZZ/premiere.png" group-title="Premiere",Premiere Clubes HD [Alter]
 http://lb.kstream.org/aovivo/HD_PFC_CLUBES_ALTER/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+
+
+#EXTINF:-1 type="stream" tvg-id="SporTV" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV
+http://lb.kstream.org/aovivo/SD_UDHASKDN_1/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV 2" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2
+http://lb.kstream.org/aovivo/SD_SPORTV_2/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 FHD" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_2/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_2/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV 2 HD [Alter]" tvg-logo="https://i.ibb.co/Yy0Pv9X/sportv2.png" group-title="Esporte",SporTV 2 HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_2_ALTER/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV 3" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3
+http://lb.kstream.org/aovivo/SD_SPORTV_3/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 FHD" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_3/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 HD" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 HD
+http://lb.kstream.org/aovivo/HD_SPORTV_3/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV 3 HD [Alter]" tvg-logo="https://i.ibb.co/G7wwzFS/sportv3.png" group-title="Esporte",SporTV 3 HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_3_ALTER/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV FHD" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV FHD
+http://lb.kstream.org/aovivo/FHD_SPORTV_1/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV HD" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD
+http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+#EXTINF:-1 type="stream" tvg-id="SporTV HD [Alter]" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD [Alter]
+http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
