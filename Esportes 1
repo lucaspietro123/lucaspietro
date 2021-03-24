@@ -78,3 +78,9 @@ http://lb.kstream.org/aovivo/FHD_SPORTV_1/video.m3u8?token=9c759b5e303e669eb4f2e
 http://lb.kstream.org/aovivo/HD_SOKASJDH_1/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
 #EXTINF:-1 type="stream" tvg-id="SporTV HD [Alter]" tvg-logo="https://i.ibb.co/Rv3pNrH/sportv.png" group-title="Esporte",SporTV HD [Alter]
 http://lb.kstream.org/aovivo/HD_SPORTV_1_ALTER/video.m3u8?token=9c759b5e303e669eb4f2e13c8d3c732b
+
+
+#EXTINF:-1 type="stream" tvg-id="alternativo" tvg-logo=" " group-title="esportes alt", esportes alternativos
+https://raw.githubusercontent.com/cwb2021/cwb/2ab7065236e0acd3c8dee9aa55ac11eb583358b1/esportes
+
+
