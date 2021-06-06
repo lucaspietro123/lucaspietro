@@ -1,4 +1,7 @@
 #EXTM3U
 
-#EXTINF:0,Godzilla vs kong
-https://s9.pandafiles.com:183/d/6m33nuw726kwoyaptcf3a6o7ngwubfvloazpveau4bxnuau5wg5vspxrre6ibzojlo77pjfu/GODZILLA.VS.KONG.2021.720.DB.FILMESMEGA.NET.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="Brazil",BR: SPORTV 2 FHD http://iptvtree.net:8080/geniptv/4faed690fd/8783 
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 2 FHD http://iptvtree.net:8080/geniptv/4faed690fd/37193 
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="Brazil",BR: SPORTV 3 FHD http://iptvtree.net:8080/geniptv/4faed690fd/8784 
+#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 3 FHD http://iptvtree.net:8080/geniptv/4faed690fd/37194 
+#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="Brazil",BR: SPORTV HD http://iptvtree.net:8080/geniptv/4faed690fd/4015 
