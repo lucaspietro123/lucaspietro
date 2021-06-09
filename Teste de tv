@@ -1,7 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/2f163193ab2de12c120e02e264bc16a7.png" group-title="Brazil",BR: SPORTV 2 FHD http://iptvtree.net:8080/geniptv/4faed690fd/8783 
-#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 2 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 2 FHD http://iptvtree.net:8080/geniptv/4faed690fd/37193 
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/50dc54d140bb68ee92fc1aa01bec5bb5.png" group-title="Brazil",BR: SPORTV 3 FHD http://iptvtree.net:8080/geniptv/4faed690fd/8784 
-#EXTINF:-1 tvg-id="" tvg-name="BR SPORTV 3 FHD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Best of Sports",BR SPORTV 3 FHD http://iptvtree.net:8080/geniptv/4faed690fd/37194 
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/6eafe5012b43973f31c5ee0b648e0594.png" group-title="Brazil",BR: SPORTV HD http://iptvtree.net:8080/geniptv/4faed690fd/4015 
+#EXTINF:-1,PREMIERE 2 FHD
+http://srvuhd.top:80/FAMILIA/12345/5253
+#EXTINF:-1,PREMIERE 2 HD
+http://srvuhd.top:80/FAMILIA/12345/5100
+#EXTINF:-1,PREMIERE 2 SD
+http://srvuhd.top:80/FAMILIA/12345/5473
+#EXTINF:-1,PREMIERE 3
+http://srvuhd.top:80/FAMILIA/12345/56159
+#EXTINF:-1,PREMIERE 3 FHD
+http://srvuhd.top:80/FAMILIA/12345/5254
+#EXTINF:-1,PREMIERE 3 HD
+http://srvuhd.top:80/FAMILIA/12345/5101
+#EXTINF:-1,PREMIERE 3 SD
+http://srvuhd.top:80/FAMILIA/12345/5474
+#EXTINF:-1,PREMIERE 4 FHD
+http://srvuhd.top:80/FAMILIA/12345/5255
+#EXTINF:-1,PREMIERE 4 HD
+http://srvuhd.top:80/FAMILIA/12345/5102
+#EXTINF:-1,PREMIERE 4 SD
+http://srvuhd.top:80/FAMILIA/12345/5475
+#EXTINF:-1,PREMIERE 5 FHD
+http://srvuhd.top:80/FAMILIA/12345/5256
+#EXTINF:-1,PREMIERE 5 HD
+http://srvuhd.top:80/FAMILIA/12345/45345
+#EXTINF:-1,PREMIERE 5 SD
+http://srvuhd.top:80/FAMILIA/12345/5476
+#EXTINF:-1,PREMIERE 6 FHD
+http://srvuhd.top:80/FAMILIA/12345/5257
+#EXTINF:-1,PREMIERE 6 HD
+http://srvuhd.top:80/FAMILIA/12345/5104
+#EXTINF:-1,PREMIERE 6 SD
+http://srvuhd.top:80/FAMILIA/12345/5477
+#EXTINF:-1,PREMIERE 7 FHD
+http://srvuhd.top:80/FAMILIA/12345/5258
+#EXTINF:-1,PREMIERE 7 HD
+http://srvuhd.top:80/FAMILIA/12345/5105
+#EXTINF:-1,PREMIERE 7 SD
+http://srvuhd.top:80/FAMILIA/12345/5478
