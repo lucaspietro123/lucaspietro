@@ -1,18 +1,376 @@
-#EXTM3U
+#EXTM3U8
 
-#EXTINF:0,Boruto 15
-https://newsvdbr.xyz/play.php?f=boruto/15.mp4
 
-#EXTINF:0,Boruto 16
-https://newsvdbr.xyz/play.php?f=boruto/16.mp4
+#EXTINF:-1 tvg-logo=" " group-title="KAILAN PEREIRA", Atuali. 09.07.2020
+#EXTINF:-1 tvg-logo=" " group-title="KAILAN PEREIRA", Lista Criada Por Kailan Pereira
 
-#EXTINF:0,Boruto 17
-https://newsvdbr.xyz/play.php?f=boruto/17.mp4
+#EXTINF:-1 tvg-logo=" " group-title="AVISO", ** LISTA PERMANENTE **
+#EXTINF:-1 tvg-logo=" " group-title="AVISO", ** NAO COPIAR **
+#EXTINF:-1 tvg-logo=" " group-title="AVISO", ** SE COPIAR DEIXE OS OBRIGATÓRIOS CRÉDITOS **
 
-EXTINF:0,Boruto 18
-https://newsvdbr.xyz/play.php?f=boruto/18.mp4
+#EXTINF:-1 tvg-logo=" " group-title="AVISO!!", LISTA EM LANÇAMENTO 
 
-#EXTINF:0,Boruto 19
-https://newsvdbr.xyz/play.php?f=boruto/19.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 1
+https://cdn.serverotaku01.co/010/animes/b/boruto/01.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 2
+https://cdn.serverotaku01.co/010/animes/b/boruto/02.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 3
+https://cdn.serverotaku01.co/010/animes/b/boruto/03.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 4
+https://cdn.serverotaku01.co/010/animes/b/boruto/04.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 5
+https://cdn.serverotaku01.co/010/animes/b/boruto/05.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 6
+https://cdn.serverotaku01.co/010/animes/b/boruto/06.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 7
+https://cdn.serverotaku01.co/010/animes/b/boruto/07.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 8
+https://cdn.serverotaku01.co/010/animes/b/boruto/08.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 9
+https://cdn.serverotaku01.co/010/animes/b/boruto/09.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 10
+https://cdn.serverotaku01.co/010/animes/b/boruto/10.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 11
+https://cdn.serverotaku01.co/010/animes/b/boruto/11.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 12
+https://cdn.serverotaku01.co/010/animes/b/boruto/12.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 13
+https://cdn.serverotaku01.co/010/animes/b/boruto/13.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 14
+https://cdn.serverotaku01.co/010/animes/b/boruto/14.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 15
+https://cdn.serverotaku01.co/010/animes/b/boruto/15.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 16
+https://cdn.serverotaku01.co/010/animes/b/boruto/16.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 17
+https://cdn.serverotaku01.co/010/animes/b/boruto/17.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 18
+https://cdn.serverotaku01.co/010/animes/b/boruto/18.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 19
+https://cdn.serverotaku01.co/010/animes/b/boruto/19.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 20
+https://cdn.serverotaku01.co/010/animes/b/boruto/20.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 21
+https://cdn.serverotaku01.co/010/animes/b/boruto/21.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 22
+https://cdn.serverotaku01.co/010/animes/b/boruto/22.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 23
+https://cdn.serverotaku01.co/010/animes/b/boruto/23.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 24
+https://cdn.serverotaku01.co/010/animes/b/boruto/24.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 25
+https://cdn.serverotaku01.co/010/animes/b/boruto/25.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 26
+https://cdn.serverotaku01.co/010/animes/b/boruto/26.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 27
+https://cdn.serverotaku01.co/010/animes/b/boruto/27.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 28
+https://cdn.serverotaku01.co/010/animes/b/boruto/28.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 29
+https://cdn.serverotaku01.co/010/animes/b/boruto/29.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 30
+https://cdn.serverotaku01.co/010/animes/b/boruto/30.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 31
+https://cdn.serverotaku01.co/010/animes/b/boruto/31.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 32
+https://cdn.serverotaku01.co/010/animes/b/boruto/32.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 33
+https://cdn.serverotaku01.co/010/animes/b/boruto/33.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 34
+https://cdn.serverotaku01.co/010/animes/b/boruto/34.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 35
+https://cdn.serverotaku01.co/010/animes/b/boruto/35.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 36
+https://cdn.serverotaku01.co/010/animes/b/boruto/36.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 37
+https://cdn.serverotaku01.co/010/animes/b/boruto/37.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 38
+https://cdn.serverotaku01.co/010/animes/b/boruto/38.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 39
+https://cdn.serverotaku01.co/010/animes/b/boruto/39.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 40
+https://cdn.serverotaku01.co/010/animes/b/boruto/40.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 41
+https://cdn.serverotaku01.co/010/animes/b/boruto/41.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 42
+https://cdn.serverotaku01.co/010/animes/b/boruto/42.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 43
+https://cdn.serverotaku01.co/010/animes/b/boruto/43.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 44
+https://cdn.serverotaku01.co/010/animes/b/boruto/44.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 45
+https://cdn.serverotaku01.co/010/animes/b/boruto/45.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 46
+https://cdn.serverotaku01.co/010/animes/b/boruto/46.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 47
+https://cdn.serverotaku01.co/010/animes/b/boruto/47.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 48
+https://cdn.serverotaku01.co/010/animes/b/boruto/48.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 49
+https://cdn.serverotaku01.co/010/animes/b/boruto/49.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 50
+https://cdn.serverotaku01.co/010/animes/b/boruto/50.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 51
+https://cdn.serverotaku01.co/010/animes/b/boruto/51.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 52
+https://cdn.serverotaku01.co/010/animes/b/boruto/52.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 53
+https://cdn.serverotaku01.co/010/animes/b/boruto/53.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 54
+https://cdn.serverotaku01.co/010/animes/b/boruto/54.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 55
+https://cdn.serverotaku01.co/010/animes/b/boruto/55.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 56
+https://cdn.serverotaku01.co/010/animes/b/boruto/56.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 57
+https://cdn.serverotaku01.co/010/animes/b/boruto/57.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 58
+https://cdn.serverotaku01.co/010/animes/b/boruto/58.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 59
+https://cdn.serverotaku01.co/010/animes/b/boruto/59.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 60
+https://cdn.serverotaku01.co/010/animes/b/boruto/60.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 61
+https://s01.dattebane.com/stream/Nx8K2xjktcI7XyUuztFYnA/1596393593/NaruttebaneB061.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 62
+https://s01.dattebane.com/stream/gRENJSJxrljAPWKWJJNSfg/1596393651/NaruttebaneB062.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 63
+https://s01.dattebane.com/download/Mba9cUq4JMpI-bPvLAfOXw/1596393685/NaruttebaneB063.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 64
+https://s05.dattebane.com/stream/Tvu2kf1y357rW6EekVM_Bg/1596393717/NaruttebaneB064.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 65
+https://s03.dattebane.com/stream/EhO4S1AjL3XEsY11daAPkg/1596393751/NaruttebaneB065.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 66
+https://s01.dattebane.com/download/HM9kT-HS3-9pIfH1ywBuew/1596393788/NaruttebaneB066.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 67
+https://s02.dattebane.com/stream/ZwCkcATcUUZ61mylHyBwQQ/1596393824/NaruttebaneB067.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 68
+https://s03.dattebane.com/stream/eTKQtYTEBBQtdTAQ6KZ2MA/1596393860/NaruttebaneB068.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 69
+https://s01.dattebane.com/download/-etfqVbIPmUpH8QlpVUAlQ/1596393925/NaruttebaneB069.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 70
+https://s03.dattebane.com/stream/r1rztgIcatxyJOH81Hddwg/1596393997/NaruttebaneB070.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 71
+https://s03.dattebane.com/stream/t3ZF6w5OEnSwMkRtu1acqQ/1596394038/NaruttebaneB071.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 72
+https://s03.dattebane.com/stream/LE_PLNBHr5mJMdLexEKOeQ/1596394093/NaruttebaneB072.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 73
+https://s01.dattebane.com/stream/cZOHQtDs30ah57qYTiMdmw/1596394147/NaruttebaneB073.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 74
+https://s01.dattebane.com/download/q6NyBEsYQ20swih5aRnkMQ/1596394186/NaruttebaneB074.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 75
+https://s01.dattebane.com/download/Gqbc-2jm7LlHOK8WGJZz_Q/1596394237/NaruttebaneB075.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 76
+https://s01.dattebane.com/stream/rMjZGiH7pSyQ233UYAUk8w/1596394302/NaruttebaneB076.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 77
+https://s02.dattebane.com/stream/0tB4awCSJqEtt6HNt0LlSQ/1596394352/NaruttebaneB077.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 78
+https://s02.dattebane.com/stream/BaGgPEFoTM4LCr-scQPMkA/1596394400/NaruttebaneB078.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 79
+https://s01.dattebane.com/download/90Clq4Lp7sxJwXhhYjovMg/1596394451/NaruttebaneB079.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 80
+https://s02.dattebane.com/stream/Y2pt7lXlO3gVA1tU7sMR5Q/1596394496/NaruttebaneB080.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 81
+https://s01.dattebane.com/stream/BPkVETKk26RSChKF8RUqNA/1596394542/NaruttebaneB081.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 82
+https://s02.dattebane.com/stream/erLdJsrWmTvtDW0WLyX7dA/1596394609/NaruttebaneB082.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 83
+https://s01.dattebane.com/stream/jyK6DQbnwScYtg5COPVkDQ/1596394648/NaruttebaneB083.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 84
+https://s02.dattebane.com/stream/TjQKWzayJ4UYUKz06yO9PQ/1596394689/NaruttebaneB084.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 85
+https://s01.dattebane.com/stream/J7xJCBI6Tz-gouNMx1SEGw/1596394741/NaruttebaneB085.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 86
+https://s05.dattebane.com/stream/0iaGHcdTGi6YhusADBna5g/1596394785/NaruttebaneB086.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 87
+https://s01.dattebane.com/stream/k0cU9vivXL3JJiV_WPChkA/1596394825/NaruttebaneB087.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 88
+https://s01.dattebane.com/stream/9nAb0VfsAqXlsp8YkKGh6w/1596394877/NaruttebaneB088.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 89
+https://s02.dattebane.com/stream/MwMMuyjeSPDWwcer2Yamjw/1596394929/NaruttebaneB089.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 90
+https://s03.dattebane.com/download/_fX1Pz0HI2sDgbD3ipheAA/1596394967/NaruttebaneB090.mp4
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 91
 
-#EXTINF:0,Boruto 20
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 92
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 93
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 94
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 95
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 96
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 97
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 98
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 99
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 100
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 101
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 102
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 103
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 104
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 105
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 106
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 107
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 108
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 109
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 110
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 111
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 112
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 113
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 114
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 115
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 116
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 117
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 118
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 119
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 120
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 121
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 122
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 123
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 124
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 125
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 126
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 127
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 128
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 129
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 130
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 131
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 132
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 133
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 134
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 135
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 136
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 137
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 138
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 139
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 140
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 141
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 142
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 143
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 144
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 145
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 146
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 147
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 148
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 149
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 150
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 151
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 152
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 153
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 154
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 155
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO", BORUTO EP 156
+
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", TreinaDub Apresenta: Boruto: Naruto Next Generations Com dublagem em Português do Brasil
+https://m.youtube.com/?gl=BR#searching
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 01
+https://r1---sn-bg07dnzl.c.drive.google.com/videoplayback?expire=1594342957&ei=7YUHX-ibOomK0AXfnK_ACw&ip=45.190.37.201&cp=QVNOVkRfUVlTSFhOOjVYNWNRb1RpX0RPYUVlNXU2Z1dJY2xWOHZwUzV6Q2tjeHpoN0dGMjZaQTY&id=da92ea5c63ffb477&itag=18&source=webdrive&requiressl=yes&mh=el&mm=32&mn=sn-bg07dnzl&ms=su&mv=m&mvi=1&pl=24&ttl=transient&susc=dr&driveid=1YPWgD48x61-K9ttxAkeT6Nki4VXjYDee&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1444.699&lmt=1572645801385326&mt=1594328480&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgDkcB-S_9ueLjgeKH6n3-EquxrcbNyYSXuIRG3XtRscECIFwX_DAa4Ofl4GIV-T1d0a7eBq9UnmjqkaUvtFmpOzA3&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgUKv-o6uP13zXbdbtMOSgLKG_xHhDSfOYbuvB73EHG7wCIAYJU6EFzZ7SRT2ROjqcqL2liKIXHWOPgmKCbeb6uhpf&cpn=tvWkx3xQj8BHZ2hh&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 02
+https://r5---sn-bg0ezn7s.c.drive.google.com/videoplayback?expire=1594343039&ei=P4YHX7rEMomK0AXfnK_ACw&ip=45.190.37.201&cp=QVNOVkRfUlBRSlhOOjVYNWRIbVZpX0RPYUVmNnM4Z1dJY2xWOW1uVTV6Q2tjeGF5NUlGMjZaQTY&id=ec3d4181f531c3ff&itag=18&source=webdrive&requiressl=yes&mh=DT&mm=32&mn=sn-bg0ezn7s&ms=su&mv=u&mvi=5&pl=24&ttl=transient&susc=dr&driveid=1rfcL2YsSWYZBOXJAwSyFA4zSYZAYfLhK&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1450.179&lmt=1572649651178476&mt=1594328298&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgBuWzgVNRvDoE-apZEDopvieTwIDCNuMXGO6R8XpDxZUCIQDKTgK5itq8YtFijdz6y5EjkDu4q3N592VFmnrzR2Cqcg==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAIeoJQ8g3GcCzwOE4OKqAfd38jMkwZ2xkvZhRqZ0fVT-AiEAx0FMLIm5W7-1RN3_rtkDda_JvuEjnqiAa0Jqom4g7_s=&cpn=tCRhRBg6JM_dtnGr&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 03
+https://r5---sn-bg07dnsy.c.drive.google.com/videoplayback?expire=1594343113&ei=iYYHX7mrLobOhwbT9oiQAQ&ip=45.190.37.201&cp=QVNOVkRfUlFPRFhOOjVYNWRJa1BpX0RPYUVmN3EyZ1dJY2xWOW5sTzV6Q2tjeGF6M0NGMjZaQTY&id=6048a423d9d2088a&itag=18&source=webdrive&requiressl=yes&mh=hi&mm=32&mn=sn-bg07dnsy&ms=su&mv=u&mvi=5&pl=24&ttl=transient&susc=dr&driveid=12suVsVosaAK-g9VLTr3s4hfv185a-i9G&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1454.892&lmt=1572648225399072&mt=1594328298&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAJ7jJuNAqIYrlcok0K9wrITzmQkXhegPMLDIuBorVT1HAiEA4un0tutqGIVv7BPStoO42K6iTZmDO9AFAnWi2RlP7p4=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgPyXZx4_rOI9BtScTH_LmgxiqdjLuDEElRfnTEK-QO9sCIA0fzCUdP9ONZkPCmjUN9pfbvKdU_WgtF-t_DcaIESRU&cpn=wws2-Zw7Mb0gQlpd&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 04
+https://r2---sn-bg07dnlk.c.drive.google.com/videoplayback?expire=1594343144&ei=qIYHX-PsBJSUhwbToJ_wAw&ip=45.190.37.201&cp=QVNOVkRfUlFSRVhOOjVYNWRJblFpX0RPYUVmN3QzZ1dJY2xWOW5vUDV6Q2tjeGF6NkRGMjZaQTY&id=42f955481e452835&itag=18&source=webdrive&requiressl=yes&mh=As&mm=32&mn=sn-bg07dnlk&ms=su&mv=u&mvi=2&pl=24&ttl=transient&susc=dr&driveid=1CI8qn5XYADZbRJbgPBxVtfRHdvOV4aQa&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1450.643&lmt=1572804911821384&mt=1594328298&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgCMKmVaJCOx4EbGj88qdk3AtQRBqIGvAEBei0qExge0ICIQC8EpiSnKcjG9xDi6shWbH66ZQ0BPNf0Ku5ySg_i3DRwg==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJ4H71nRRPbxei-Rfi6FyhkspG41NG0rupoJu9aEjLeAAiEAzoArbH7v59CTRmVJHD-aBTL4KlPIyiy6iYb2l9cverw=&cpn=_Gw_YjZET4E58N9C&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 05
+https://r1---sn-bg0ezne7.c.drive.google.com/videoplayback?expire=1594343202&ei=4oYHX--qCIS-hwaQuJuQCw&ip=45.190.37.201&cp=QVNOVkRfUlJOQ1hOOjVYNWRKak9pX0RPYUVmOHAxZ1dJY2xWOW9rTjV6Q2tjeGFhMkJGMjZaQTY&id=7e9337c030042289&itag=18&source=webdrive&requiressl=yes&mh=-4&mm=32&mn=sn-bg0ezne7&ms=su&mv=u&mvi=1&pl=24&ttl=transient&susc=dr&driveid=1D4Lyxo-vwYU6L-ZOLX244qCbB_bnYX9Z&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1449.807&lmt=1572647059655138&mt=1594328298&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhANDYuBYB-e1Q4bjyrudrG6pnpJhBfJRtR1rAhQ1O8kCtAiEA5EaTN4Wghb3QaHNKYjl-6wKdY14h3Exy_PV94tSdIHE=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgTsFqbVxAo4od6-i0X7Y1JBQJhWK3NeYg14s0Fzzv8J8CIAP_mQVvsyKYnQTjdzfyx1Ydk36P5K4cHPfUJCaekDY2&cpn=QMrUfenDYgoY0E6a&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 06
+https://r5---sn-bg0ezn7s.c.drive.google.com/videoplayback?expire=1594343276&ei=LIcHX8HgCIvghgbP06qQBA&ip=45.190.37.201&cp=QVNOVkRfUlJVR1hOOjVYNWRKcVNpX0RPYUVmOHc1Z1dJY2xWOW9yUjV6Q2tjeGFhOUZGMjZaQTY&id=9aa7b9c1dcca86f2&itag=18&source=webdrive&requiressl=yes&mh=P_&mm=32&mn=sn-bg0ezn7s&ms=su&mv=m&mvi=5&pl=24&ttl=transient&susc=dr&driveid=1wu6grld61utlFfmDyTA5XfmBUrZjOWBp&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1449.343&lmt=1572811544704260&mt=1594328841&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAN2DIv6xYrnrOJENOnFIkNm58lCoyoS79Hr7RYsDYUfJAiEAhKr3TE5xbjqO70rApFkNyBPBmHkO2YcD-Tr5hFwAW0U=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgQmw1dP3NU-JtUm--5LtHedY--Jd4Up0i0IWtP6IzOI8CIFgyzBsKEsqnLOJlrvjazL39JUR0P9lIDVyZRKsGkzpM&cpn=SBhZrUGZfbv-oeFs&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 07
+https://r3---sn-bg07dnll.c.drive.google.com/videoplayback?expire=1594343314&ei=UocHX_OIA4-F2LYPw-OV2AQ&ip=45.190.37.201&cp=QVNOVkRfUlNPRVhOOjVYNWRLa1FpX0RPYUVmOXEzZ1dJY2xWOXBsUDV6Q2tjeGFiM0RGMjZaQTY&id=7cdc1df664660ea7&itag=18&source=webdrive&requiressl=yes&mh=z5&mm=32&mn=sn-bg07dnll&ms=su&mv=m&mvi=3&pl=24&ttl=transient&susc=dr&driveid=1o1ldAyCDsHL7ziE7aEoTpwfJNetgmI6y&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1460.860&lmt=1572818930735659&mt=1594328841&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgSvP-JCvld-yv4ByYzuUQUwffhqxvTg4csiaJx6dHU-ICIQDXbfipZVaLBJ3KqlVPUZFKqJAXV9OE8RvVyvVCvi6v7Q==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgdfVSzG5Gp4Zr89iWgEr389YsHegC2-lTdbjKo8AcrVICIQDyntBYCF5kkysqjs6M90A8z7fvZQ_065WmwNaUdyeaQQ==&cpn=j-dYfIxfktnkAdV0&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 08
+https://r5---sn-bg0ezn7e.c.drive.google.com/videoplayback?expire=1594343349&ei=dYcHX_u_O9KL2LYP76yC8A0&ip=45.190.37.201&cp=QVNOVkRfUlNSSlhOOjVYNWRLblZpX0RPYUVmOXQ4Z1dJY2xWOXBvVTV6Q2tjeGFiNklGMjZaQTY&id=0c3ad8365564fbdf&itag=18&source=webdrive&requiressl=yes&mh=q5&mm=32&mn=sn-bg0ezn7e&ms=su&mv=m&mvi=5&pl=24&ttl=transient&susc=dr&driveid=1jLati5ArGeUu61Lr0gGmKZLWP5CEZy1z&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1471.425&lmt=1574367477156535&mt=1594328841&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhALMYPkIbgBoMaTa93GyP5hWRqJnoefLGV1vMpSjSyaMKAiBcLWlhu60Z2VmpvqRkui8VNPZP_oVfh2hJSTiXHtILuw==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgO20vYiBCumv-Ch_XB3mbEzjJnC-XqgxhVrmmEwxhtVsCIQDUQzNpH1CHdlTrq91zFcLt8rPhFZYSepz17cKMwvmgeg==&cpn=BU6NCPBZo8T9Uj66&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 09
+https://r3---sn-bg0ezn7s.c.drive.google.com/videoplayback?expire=1594343388&ei=m4cHX73wPI3FhwaP3IWICw&ip=45.190.37.201&cp=QVNOVkRfUlNWSVhOOjVYNWRLclVpX0RPYUVmOXg3Z1dJY2xWOXBzVDV6Q2tjeGFiMEhGMjZaQTY&id=5fb0928b232367f6&itag=18&source=webdrive&requiressl=yes&mh=Is&mm=32&mn=sn-bg0ezn7s&ms=su&mv=m&mvi=3&pl=24&ttl=transient&susc=dr&driveid=18shpl2iH0lOFAn3fa6il-gRFlnNh6Rcg&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1464.854&lmt=1574265255913947&mt=1594328901&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAIjfHFrAXnNGCCsM6F8zaXAtWU65k5IvUhbHqs5i6DS4AiAsOSE-3IHVnWRh7_CW8NYJCvWp1wGVPJqvxdEbU_q5mA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhALbvqi_eEajEPr75PZWdpHxmec8PrDFhp5iaGCf0twReAiBh9LtNTK-KzJ0Mi_GKOAFmnZ5RejziwrdIC7wN2V9jiQ==&cpn=YiNbPLk_qQZ9GI-9&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 10
+https://r2---sn-bg07dnzs.c.drive.google.com/videoplayback?expire=1594343427&ei=w4cHX43JD43FhwaP3IWICw&ip=45.190.37.201&cp=QVNOVkRfUlRQSFhOOjVYNWRMbFRpX0RPYUVmMHI2Z1dJY2xWOXFtUzV6Q2tjeGFjNEdGMjZaQTY&id=e1d7540a38dd98a8&itag=18&source=webdrive&requiressl=yes&mh=wT&mm=32&mn=sn-bg07dnzs&ms=su&mv=m&mvi=2&pl=24&ttl=transient&susc=dr&driveid=1SXeOKE2lxdax5rC8R31tmwQyTSv3tpy_&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1471.796&lmt=1574367415165995&mt=1594328961&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAN6572oaXYs0FUSculjL7oftwIcptEM4ba2qhFYgoHG6AiByF1r7mA8t4jKP0EIGriIFtyLn52_paNFWPwbwn4xUxg==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAIfhgWTCoK7OqpWnZ3erh0kiU5rGUIQS1q2b6VapYTvpAiEAit4RWak1r8ZQ978JWUIk4mP_dEPL-4XDVAU2tVM1yVY=&cpn=oKaXb5wJ0rJmJBxb&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 11
+https://r4---sn-bg07dnze.c.drive.google.com/videoplayback?expire=1594343472&ei=8IcHX7vvGIbOhwbT9oiQAQ&ip=45.190.37.201&cp=QVNOVkRfUlRVQ1hOOjVYNWRMcU9pX0RPYUVmMHcxZ1dJY2xWOXFyTjV6Q2tjeGFjOUJGMjZaQTY&id=466564f1604fdf71&itag=18&source=webdrive&requiressl=yes&mh=Xr&mm=32&mn=sn-bg07dnze&ms=su&mv=m&mvi=4&pl=24&ttl=transient&susc=dr&driveid=1Y0UuRNneTUORcvORe6ppX83gy1P1GBtf&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1469.265&lmt=1572683620689910&mt=1594328961&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgYNl6iB4zbf7s3q0E1vybFSQqGsSD4E8VwPY8Bhh18RECIQDpXEwWTs7tt5BdKAmvHIIv8P6_Zfk-iwvPzPBgIwCcXA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgEPTRHR25uX6nTkyzBkbUhprkmVWHgpwQvQAtJWv18K4CIGw8dDkNaF_MBIwxWunQjujEl43sXHvdLz8LL32e2Fx7&cpn=PaK-tuSJH5aHdxlm&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 12
+https://r5---sn-bg07dn6l.c.drive.google.com/videoplayback?expire=1594343622&ei=hogHX4yHD4vghgbP06qQBA&ip=45.190.37.201&cp=QVNOVkRfUlZQQ1hOOjVYNWRObE9pX0RPYUVmMnIxZ1dJY2xWOXNtTjV6Q2tjeGFlNEJGMjZaQTY&id=a9b1058290904c51&itag=18&source=webdrive&requiressl=yes&mh=xr&mm=32&mn=sn-bg07dn6l&ms=su&mv=m&mvi=5&pl=24&ttl=transient&susc=dr&driveid=1X-9Jpyg1jiH5vbt0TEbYE065i0Ol1P97&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1470.148&lmt=1573327568492691&mt=1594329139&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgQsZg4K66aGaX-qZY10fOrpfQiQK-PNE7KWQq_u0sQgoCIEsScP6MVZVTENN48JUrIpequVo3eOQ0Kr4YsAfgb9Ji&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgDSW7z6y1newqMnYWbW-UsznWXpxqJpof5dy0wleMdp8CICUrOzNWEjM_6WJDWm1mWQu7XaynV6ch4vByljh8TzSv&cpn=h6GJMSO8V2CrDlA3&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 13
+https://r3---sn-bg07dn6l.c.drive.google.com/videoplayback?expire=1594343674&ei=uogHX47ILY-F2LYPw-OV2AQ&ip=45.190.37.201&cp=QVNOVkRfUlZVRVhOOjVYNWROcVFpX0RPYUVmMnczZ1dJY2xWOXNyUDV6Q2tjeGFlOURGMjZaQTY&id=7eabeddef9cc0467&itag=18&source=webdrive&requiressl=yes&mh=FQ&mm=32&mn=sn-bg07dn6l&ms=su&mv=m&mvi=3&pl=24&ttl=transient&susc=dr&driveid=191J1D1e-WczobFbaqAh7Zp8NLgGzilvy&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1467.640&lmt=1572679262556598&mt=1594329201&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgQHd2_FV00kPGKJMv20Mm_WtJf_VDFTadbonr35IzswYCIQCjLKT4tHOGPmRwk4fCpwk-sV7h6zwSTFNKff3IAwQixg==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAL13rk-4d6SzpwBf_8yjh00rjvKMf0hOcs6RSPbMZ-aiAiAizR9JznhFK2Rg0adSY6jMv2IAEcQjBkq27x1WsrAnPg==&cpn=zIMyPVmIMifZBzi3&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 14
+https://r4---sn-bg07dnls.c.drive.google.com/videoplayback?expire=1594343717&ei=5YgHX92sL8Sm0AXPiITAAw&ip=45.190.37.201&cp=QVNOVkRfUldPSFhOOjVYNWRPa1RpX0RPYUVmM3E2Z1dJY2xWOXRsUzV6Q2tjeGFmM0dGMjZaQTY&id=7eedfb230b59dad9&itag=18&source=webdrive&requiressl=yes&mh=4B&mm=32&mn=sn-bg07dnls&ms=su&mv=m&mvi=4&pl=24&ttl=transient&susc=dr&driveid=11x2Wv2LLl3wEh80-hlcETOz0-AAeJjvn&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1474.304&lmt=1572833512866837&mt=1594329201&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhANgQGRD7l7Kjb6brwEzVSxZImfB_s0kjaeZPZuAK0AGyAiEArRQz0yFEr7t5ULzuMEZ-uWyvevtV6IwslsW-rFAvU4A=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgITcH0pkYf0XFaoyHoB9ZOejQLt3tbE4XxxsvHrbGxYwCIQD8xoYIOGFxVCYAxX0cr3W5Fxfg9luA-4_ooEsBBnC8uQ==&cpn=6pI_v6aurcCw9Rqx&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 15
+https://r2---sn-bg07dnll.c.drive.google.com/videoplayback?expire=1594343784&ei=KIkHX_7TN4vghgbP06qQBA&ip=45.190.37.201&cp=QVNOVkRfUldWRVhOOjVYNWRPclFpX0RPYUVmM3gzZ1dJY2xWOXRzUDV6Q2tjeGFmMERGMjZaQTY&id=dbe74bfa1b6b346c&itag=18&source=webdrive&requiressl=yes&mh=zV&mm=32&mn=sn-bg07dnll&ms=su&mv=m&mvi=2&pl=24&ttl=transient&susc=dr&driveid=1HWbdc4WSb-6QYG6SY19uqjXrZTsC1U8a&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1485.334&lmt=1572675479760035&mt=1594329320&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIgQf7m8z5gsu0NnB77dyijh5yDNOSwjS2eXUjnUg3jYU8CIQCXowPQALQa-_Aj6rZNzdwnL9xWldPy5DV8eKSZwCQiKw==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgePZcq1vgAVJ_veVvk01C1MW_7l6EwzSYbpes-i7fSSMCIQCOElQYcwyT9yF2GUqNAtqQx4zM9xBkCKoG3I6F1mRfBw==&cpn=2wzzfhsF2alUiouC&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 16
+https://r1---sn-bg0ezn7z.c.drive.google.com/videoplayback?expire=1594343830&ei=VokHX7q5M43FhwaP3IWICw&ip=45.190.37.201&cp=QVNOVkRfUlhRQVhOOjVYNWRQbU1pX0RPYUVmNHM5Z1dJY2xWOXVuTDV6Q2tjeGFnNVpGMjZaQTY&id=15eb895fbfe34dcd&itag=18&source=webdrive&requiressl=yes&mh=Ru&mm=32&mn=sn-bg0ezn7z&ms=su&mv=m&mvi=1&pl=24&ttl=transient&susc=dr&driveid=1YWCfsQ7zO14hrhOYgEvgfzhvYEPF_o2Q&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1482.547&lmt=1572655525863589&mt=1594329320&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAM34zt-_W62i-nWovjfuuoD4uO2c6cbXbTNvi2xstdJTAiEAi8VkZG1QFciDPXTl7-lyPA6QaIoTlHhab2DIPq439M4=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgYoHdv8lBh7-lVaBxr6S4tD6EVITwigC7K-fKy2FapjYCICCueU-0eYCHXtXpBqFR91JWC_JL6LRbDTdW-_oZSHN8&cpn=ClmEx7tv4hiNL6vU&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 17
+https://r6---sn-bg07dnze.c.drive.google.com/videoplayback?expire=1594343878&ei=hokHX8KhK4S-hwaQuJuQCw&ip=45.190.37.201&cp=QVNOVkRfUlhVSVhOOjVYNWRQcVVpX0RPYUVmNHc3Z1dJY2xWOXVyVDV6Q2tjeGFnOUhGMjZaQTY&id=a5458278c45af00f&itag=18&source=webdrive&requiressl=yes&mh=KR&mm=32&mn=sn-bg07dnze&ms=su&mv=m&mvi=6&pl=24&ttl=transient&susc=dr&driveid=1M4o3qlXXOGuxKrjeizkb8skrrMlPMXmj&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1484.683&lmt=1572668059955992&mt=1594329442&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRgIhAI4_Mf9ijgzlgOEN8qDLOUYIZ4RO-63Iz9Gdr4raRzYHAiEAxFmw-Ni8beRnS9F5ijovHZSWuanKEwTTzxEzEY2Fysk=&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgI5j_MAqOmQ2x_R5793Zy8e5KuLKQACfRNcFa1pg0bQICIEx0XEaVhCQ8lNn60OgpW8RJyjYNSrtzmmV64dDVYIvI&cpn=6MIIUIXbYyqaoPdd&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 18
+https://r3---sn-bg07dnlz.c.drive.google.com/videoplayback?expire=1594343915&ei=q4kHX6nxGI3FhwaP3IWICw&ip=45.190.37.201&cp=QVNOVkRfUllPRlhOOjVYNWRRa1JpX0RPYUVmNXE0Z1dJY2xWOXZsUTV6Q2tjeGFoM0VGMjZaQTY&id=655b13dcd814f285&itag=18&source=webdrive&requiressl=yes&mh=-q&mm=32&mn=sn-bg07dnlz&ms=su&mv=m&mvi=3&pl=24&ttl=transient&susc=dr&driveid=19XGTECprNTRMKcgI12So2CCC4ZrBs8O2&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1481.131&lmt=1572652433354268&mt=1594329442&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgYMMDBQV-mggCklKeTT0gD4xgp52mTBriSNnQR1nX1s4CIHDCyD5PzbtwqB4vZ_Mmyu1s7tfyzEVGKzv6iMKS_DZA&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgfUWeGIQspJaT-qk34UKDKghnlqcDWSacrE-Ch5g_mM0CIHI3SaAWPAwsM1YjNhG7f1ivF4C_4y4oHLp3ocSTvjrY&cpn=Ka-Mh9DNTbwXjc0L&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 19
+https://r2---sn-bg0ezn7l.c.drive.google.com/videoplayback?expire=1594343964&ei=3IkHX-bUJYLHhwbLmJioCg&ip=45.190.37.201&cp=QVNOVkRfUllURVhOOjVYNWRRcFFpX0RPYUVmNXYzZ1dJY2xWOXZxUDV6Q2tjeGFoOERGMjZaQTY&id=193813033b36892b&itag=18&source=webdrive&requiressl=yes&mh=kF&mm=32&mn=sn-bg0ezn7l&ms=su&mv=m&mvi=2&pl=24&ttl=transient&susc=dr&driveid=1jc8_4Vl9cxMbvTNXDlYp2oKTgKJwT_ym&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1482.176&lmt=1572659526674562&mt=1594329498&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAMRjHDX_DGACI-fXP2AZxiB1H8lAlQhZXPr_JRvZhuaKAiATh-tdduYO6M3t6TmFWvDgsvVjO29TSwBamekliAQ9hA==&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgIKpHucB5Z_bXBB3slRQnXnqxr41zalhX32I-tXob81cCICMz8TJ7AY7hTDvn0sS0bOHL0uC5CU_6YCpOVnYbIzAT&cpn=JL_7xQsEK7G-fDHa&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO DUBLADO", BORUTO EP 20
+https://r5---sn-bg0ezn7y.c.drive.google.com/videoplayback?expire=1594344013&ei=DYoHX7eqFovghgbP06qQBA&ip=45.190.37.201&cp=QVNOVkRfU1BPRFhOOjVYNWVIa1BpX0RPYUVnNnEyZ1dJY2xWMG1sTzV6Q2tjeGJ5M0NGMjZaQTY&id=52d5432a951163d9&itag=18&source=webdrive&requiressl=yes&mh=V9&mm=32&mn=sn-bg0ezn7y&ms=su&mv=m&mvi=5&pl=24&ttl=transient&susc=dr&driveid=1uTsZHCxQhELbsE-6gNNxi_soc6lrL_by&app=texmex&mime=video/mp4&vprv=1&prv=1&dur=1477.508&lmt=1572671492110459&mt=1594329498&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRAIgZXezyLHF9EZ5vz4qUAy4_0NAz3r0JLCvzmtFswLTHjUCIEWmvSgdSZ9HVQ4hdCHvbNrEnbosvOgaiWE6da4uEV1f&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgQ5GGKcynd2fyMDYVEntoXe6788bbEb09W8h2RJzF27YCIQCtd1_GA1Y03R5RYMh5wlQwWV_IiGWgpUotxiinvBYIkw==&cpn=RTNDysyq9q4jRy3F&c=WEB_EMBEDDED_PLAYER&cver=20200709
+#EXTINF:-1 tvg-logo=" " group-title="BORUTO OP 1 MUSIC", kana Boon - Baton Road (Music Lyrics)
+https://c3.taboola.com/libtrc/static/video/t_PERFORMANCE_VIDEO_DEFAULT/v1588970073/gx8j353bpag2nffg2vxh.mp4
+
+
+
+
+
+
+
+
